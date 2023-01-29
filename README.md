@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khofi-Adjei007
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Analysis Writing softwares to solve problems.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently a student at ALX
 - 💞️ I’m looking to collaborate on Data Manipulation and Analysis.
 - 📫 How to reach me : khofiadjei@gmail.com, Phone: +233 202987063, Whatsapp: +233 556244194
 
